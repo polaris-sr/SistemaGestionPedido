@@ -77,6 +77,7 @@ Camiseta : 25.99
 Pantalón : 39.5
 
 total=79.24
+
 }
 ---
 
